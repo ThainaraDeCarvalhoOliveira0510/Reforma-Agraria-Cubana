@@ -197,7 +197,7 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #005a75, #b74e91);
+				background-image: -moz-linear-gradient(to right, #630081, #b74e91);
 				background-image: -webkit-linear-gradient(to right, #b60000, #b74e91);
 				background-image: -ms-linear-gradient(to right, #017e01, #b74e91);
 				background-image: linear-gradient(to right, #5e42a6, #b74e91);
