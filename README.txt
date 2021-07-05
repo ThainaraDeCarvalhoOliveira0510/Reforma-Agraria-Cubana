@@ -1,33 +1,44 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+# Reforma Agrária Cubana
+###  Projeto criado para conclusão do curso Técnico Integrado em Informática - IFMS Campus Jardim-MS
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-tecnologias">Tecnologias</a> •  
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 💻 Sobre o projeto
 
-(* = not included)
+Esse projeto tem o objetivo de desenvolver um site web para apresentar o resultado do trabalho de conclusao do curso Tecnico Integardo em Informatica 
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
 
-Credits:
+- [HTML 5](https://www.w3.org/TR/html52/)
+- [CSS 3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+- [Javascript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [Bootstrap](https://getbootstrap.com/)
+- [JQuery](https://jquery.com/)
+- [Git](https://git-scm.com/)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Creditos do projeto:
+- [Template Hyperspace by HTML5 UP ](https://https://html5up.net/hyperspace)
+- [Unsplash ](https://unsplash.com)
+- [font Awesome] (https://fontawesome.io)
+- [Scrollex] (https://github.com/ajlkn/jquery.scrollex)
+- [Responsive Tools] (https://github.com/ajlkn/responsive-tools)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
+## 💪 Como contribuir para o projeto
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+## 📝 Licença
+
+Este projeto é um software de código aberto licenciado sob 
