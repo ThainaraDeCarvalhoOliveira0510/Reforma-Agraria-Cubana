@@ -10,8 +10,9 @@
 
 ## 💻 Sobre o projeto
 
-Esse projeto tem o objetivo de desenvolver um site web para apresentar o resultado do trabalho de conclusao do curso Tecnico Integardo em Informatica 
+Esse projeto tem o objetivo de desenvolver um site web para apresentar o resultado do trabalho de conclusão do curso Técnico Integardo em Informática 
 ---
+
 
 ## 🛠 Tecnologias
 
@@ -24,12 +25,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JQuery](https://jquery.com/)
 - [Git](https://git-scm.com/)
 
-Creditos do projeto:
+Créditos do projeto:
 - [Template Hyperspace by HTML5 UP ](https://https://html5up.net/hyperspace)
 - [Unsplash ](https://unsplash.com)
-- [font Awesome] (https://fontawesome.io)
+- [fontAwesome] (https://fontawesome.io)
 - [Scrollex] (https://github.com/ajlkn/jquery.scrollex)
-- [Responsive Tools] (https://github.com/ajlkn/responsive-tools)
+- [ResponsiveTools] (https://github.com/ajlkn/responsive-tools)
 
 ---
 ## 💪 Como contribuir para o projeto
