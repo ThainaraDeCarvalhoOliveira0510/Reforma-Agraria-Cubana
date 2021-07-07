@@ -1,6 +1,5 @@
-
-# Reforma Agrária Cubana
-###  Projeto criado para conclusão do curso Técnico Integrado em Informática - IFMS Campus Jardim-MS
+# Reforma Agrária cubana
+### Projeto criado para conclusão do curso Técnico Integrado em Informática — IFMS Campus Jardim-MS
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -10,13 +9,14 @@
 
 ## 💻 Sobre o projeto
 
-Esse projeto tem o objetivo de desenvolver um site web para apresentar o resultado do trabalho de conclusão do curso Técnico Integardo em Informática 
+Esse projeto tem o objetivo de desenvolver um site web para apresentar o resultado do trabalho de conclusão do curso Técnico Integrado em Informática 
 ---
-
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
+
+Correções no README
 
 - [HTML 5](https://www.w3.org/TR/html52/)
 - [CSS 3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Git](https://git-scm.com/)
 
 Créditos do projeto:
-- [Template Hyperspace by HTML5 UP ](https://https://html5up.net/hyperspace)
+- [Template Hyperspace by HTML5 UP](https://https://html5up.net/hyperspace)
 - [Unsplash ](https://unsplash.com)
 - [fontAwesome] (https://fontawesome.io)
 - [Scrollex] (https://github.com/ajlkn/jquery.scrollex)
