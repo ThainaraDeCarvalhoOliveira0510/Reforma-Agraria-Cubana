@@ -5,3 +5,16 @@
 .spotlights > section:nth-child(even){
     flex-direction: row-reverse !important;
 }
+iframe{
+    width: 100%;
+}
+
+table{
+    margin-top: 50px;
+}
+
+caption{
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
