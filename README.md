@@ -18,16 +18,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Correções no README
 
-- [HTML 5](https://www.w3.org/TR/html52/)
-- [CSS 3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+- [HTML5] (https://www.w3.org/TR/html52/)
+- [CSS3] (https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 - [Javascript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - [Bootstrap](https://getbootstrap.com/)
 - [JQuery](https://jquery.com/)
 - [Git](https://git-scm.com/)
 
 Créditos do projeto:
-- [Template Hyperspace by HTML5 UP](https://https://html5up.net/hyperspace)
-- [Unsplash ](https://unsplash.com)
+- [Template Hyperspace by HTML5 UP] (https://https://html5up.net/hyperspace)
+- [Unsplash] (https://unsplash.com)
 - [fontAwesome] (https://fontawesome.io)
 - [Scrollex] (https://github.com/ajlkn/jquery.scrollex)
 - [ResponsiveTools] (https://github.com/ajlkn/responsive-tools)
