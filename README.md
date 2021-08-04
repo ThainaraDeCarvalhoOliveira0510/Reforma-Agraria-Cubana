@@ -26,7 +26,7 @@ Correções no README
 - [Git](https://git-scm.com/)
 
 Créditos do projeto:
-- [Template Hyperspace by HTML5 UP] (https://https://html5up.net/hyperspace)
+- [Template Hyperspace by HTML5 UP](https://https://html5up.net/hyperspace)
 - [Unsplash] (https://unsplash.com)
 - [fontAwesome] (https://fontawesome.io)
 - [Scrollex] (https://github.com/ajlkn/jquery.scrollex)
