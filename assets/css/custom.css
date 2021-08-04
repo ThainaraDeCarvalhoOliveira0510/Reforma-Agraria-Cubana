@@ -13,8 +13,11 @@ table{
     margin-top: 50px;
 }
 
-caption{
+table caption{
     font-size: 1.1em;
     text-transform: uppercase;
     font-weight: bold;
+    caption-side: top;
+    text-align: center;
+    color:#ffffff;
 }
