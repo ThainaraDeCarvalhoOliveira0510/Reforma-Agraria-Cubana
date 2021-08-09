@@ -7,7 +7,7 @@
 	--color-style2:#5052b5; /*#5052b5;*/
 	--color-style2-alt:#01741e;/*#01741e*/
 	--color-style3:#b74e91; /*#b74e91;*/
-	--color-style3-alt: #953d75 /* #953d75;*/
+	--color-style3-alt: #953d75; /* #953d75;*/
 	--color-alt: #940000; /* #940000;*/
 
 }
@@ -3452,7 +3452,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				display: block;
+				display: flex;
 				padding: 0 2em;
 				text-align: left;
 			}

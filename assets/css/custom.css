@@ -27,3 +27,6 @@ table caption{
         flex-direction: column;
     }
 }
+p,blockquote{
+    text-align: justify;
+}
