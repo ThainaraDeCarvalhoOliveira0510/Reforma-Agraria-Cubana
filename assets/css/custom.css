@@ -5,7 +5,7 @@
 .spotlights > section:nth-child(even){
     flex-direction: row-reverse !important;
 }
-iframe{
+iframe, embed{
     width: 100%;
 }
 
