@@ -16,7 +16,6 @@ Esse projeto tem o objetivo de desenvolver um site web para apresentar o resulta
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-Correções no README
 
 - [HTML5](https://www.w3.org/TR/html52/)
 - [CSS3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
